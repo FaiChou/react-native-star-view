@@ -15,7 +15,7 @@ yarn add react-native-star-view
 Import to your app:
 
 ```
-import StarView from 'react-native-star-view';
+import Star from 'react-native-star-view';
 ```
 
 Use the component:
