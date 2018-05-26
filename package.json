@@ -24,9 +24,6 @@
   "scripts": {
     "test": "echo \"Already test passed!\" && exit 0"
   },
-  "jest": {
-    "preset": "react-native"
-  },
   "peerDependencies": {
     "react": ">= 15.x",
     "react-native": ">= 0.47.x"
