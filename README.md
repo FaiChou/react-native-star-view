@@ -1,6 +1,6 @@
 # react-native-star-view [![Build Status](https://travis-ci.org/FaiChou/react-native-star-view.svg?branch=master)](https://travis-ci.org/FaiChou/react-native-star-view) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-<img src="http://p9qv3iwy5.bkt.clouddn.com/StarView.png" width="400"/>
+<img src="https://raw.githubusercontent.com/FaiChou/faichou.github.io/master/img/qiniu/StarView.png" width="400"/>
 
 ### How to use
 
